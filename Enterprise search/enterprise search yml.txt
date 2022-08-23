@@ -30,7 +30,7 @@ elasticsearch.host: https://127.0.0.1:9200
 # Elasticsearch credentials:
 #
 elasticsearch.username: elastic
-elasticsearch.password: RtH9+5ayZ0yFdBQdGl=n
+elasticsearch.password: RtH9+5ayZ0yFdBQdG578
 #
 # Elasticsearch custom HTTP headers to add to each request:
 #
